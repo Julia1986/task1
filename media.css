@@ -110,7 +110,7 @@ body {
 background: url(main-phone.jpg) 100% no-repeat;
 background-size: cover;
 position: relative;
-height: 100vh;
+overflow-y: auto;
 }
 .header {
 height: 40px;
@@ -213,7 +213,7 @@ display: none;
 body {
 background: url(main-phone.jpg) 100% no-repeat;
 background-size: cover;
-height: 100vh;
+overflow-y: auto;
 position: relative;
 }
 .header {
@@ -318,7 +318,7 @@ body {
 background: url(main-phone.jpg) 100% no-repeat;
 background-size: cover;
 position: relative;
-height: 100vh;
+overflow-y: auto;
 }
 .header {
 height: 40px;
@@ -423,6 +423,7 @@ bottom: 0;
 body {
 background: url(main-phone.jpg) 100% no-repeat;
 height: 100vh;
+overflow-y: auto;
 background-size: cover;
 position: relative;
 }
