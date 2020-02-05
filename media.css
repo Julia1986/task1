@@ -110,6 +110,7 @@ body {
 background: url(main-phone.jpg) 100% no-repeat;
 background-size: cover;
 position: relative;
+height: 100vh;
 overflow-y: auto;
 }
 .header {
@@ -213,6 +214,7 @@ display: none;
 body {
 background: url(main-phone.jpg) 100% no-repeat;
 background-size: cover;
+height: 100vh;
 position: relative;
 overflow-y: auto;
 }
@@ -318,6 +320,7 @@ body {
 background: url(main-phone.jpg) 100% no-repeat;
 background-size: cover;
 position: relative;
+height: 100vh;
 overflow-y: auto;
 }
 .header {
@@ -326,7 +329,7 @@ justify-content: space-between;
 align-items: center;
 }
 .wrapper {
-	height: 100%;
+height: 100%;
 }
 .header_section-1 {
 float: left;
@@ -422,7 +425,7 @@ bottom: 0;
 @media only screen and (max-width: 549px) {
 body {
 background: url(main-phone.jpg) 100% no-repeat;
-height: 65vh;
+height: 100vh;
 background-size: cover;
 position: relative;
 overflow-y: auto;
