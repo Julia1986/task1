@@ -422,7 +422,6 @@ bottom: 0;
 @media only screen and (max-width: 549px) {
 body {
 background: url(main-phone.jpg) 100% no-repeat;
-height: 100vh;
 overflow-y: auto;
 background-size: cover;
 position: relative;
