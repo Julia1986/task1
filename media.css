@@ -1,0 +1,550 @@
+@media only screen and (min-width: 1250px) {
+#burger {
+width: 30px;
+height: 30px;
+display: none;
+}
+body {
+background: url(img/main-phone.jpg) 100% no-repeat;
+height: 100vh;
+background-size: cover;
+}
+.header {
+height: 40px;
+justify-content: space-between;
+align-items: center;
+}
+.header_section-1 {
+float: left;
+padding-left: 30px;
+}
+.header_section-2 {
+padding-right: 5px;
+}
+a {
+font-size: 28px;
+word-spacing: 1px;
+margin-right: 25px;
+}
+.header_item {
+padding-right: 50px;
+word-spacing: -10px;
+font-stretch: ultra-condensed;
+}
+.text {
+position: absolute;
+margin: auto;
+top: 35%;
+left: 30px;
+text-align: left;
+}
+.information-1 {
+text-align: left;
+font-size: 3em;
+}
+.information-2 {
+margin-bottom: 5px;
+line-height: 0.3;
+font-size: 1.6em;
+text-align: left;
+}
+.margin {
+margin-bottom: 40px;
+}
+.bottom {
+position: relative;
+border-top: 18px;
+border-bottom: 18px;
+border-right: 25px;
+border-left: 25px;
+border-radius: 20px;
+font-size: 16px;
+padding: 10px 22px;
+}
+.col-main {
+width: 30%;
+}
+.col-sidebar {
+padding-top: 150px;
+}
+#image {
+margin-right: -50%;
+margin-left: 10%;
+}
+.icon {
+padding-bottom: 10px;
+}
+#child {
+position: absolute;
+display: block;
+top: 0;
+left: 85%;
+height: 20%;
+width: 25%;
+margin: auto;
+}
+.icon-size {
+padding: 8px;
+vertical-align: 25%;
+}
+.icon-weight {
+width: 20px;
+text-align: center;
+}
+#footer {
+position: absolute;
+height: 20px; 
+width: 100%;
+bottom: 0;
+margin-block-end: 0;
+}
+}
+
+@media only screen and (min-width: 1000px) and (max-width: 1249px) {
+#burger {
+width: 30px;
+height: 30px;
+display: none;
+}
+body {
+background: url(img/main-phone.jpg) 100% no-repeat;
+background-size: cover;
+position: relative;
+overflow-y: auto;
+}
+.header {
+height: 40px;
+justify-content: space-between;
+align-items: center;
+}
+.wrapper {
+height: 100%;
+}
+.header_section-1 {
+float: left;
+padding-left: 30px;
+}
+.header_section-2 {
+padding-right: 5px;
+}
+a {
+font-size: 22px;
+word-spacing: 1px;
+}
+.header_item {
+padding-right: 50px;
+word-spacing: -10px;
+font-stretch: ultra-condensed;
+}
+.text {
+position: absolute;
+margin: auto;
+top: 35%;
+left: 0;
+text-align: left;
+}
+.information-1 {
+text-align: left;
+font-size: 2.5em;
+}
+.information-2 {
+margin-bottom: 5px;
+line-height: 0.3;
+font-size: 1.3em;
+text-align: left;
+}
+.margin {
+margin-bottom: 40px;
+}
+.bottom {
+position: relative;
+border-top: 18px;
+border-bottom: 18px;
+border-right: 25px;
+border-left: 25px;
+border-radius: 20px;
+font-size: 16px;
+padding: 10px 22px;
+}
+.col-main {
+width: 30%;
+}
+.col-sidebar {
+padding-top: 150px;
+}
+#image {
+margin-right: -50%;
+margin-left: 10%;
+}
+.icon {
+padding-bottom: 10px;
+}
+#child {
+position: absolute;
+display: block;
+top: 10px;
+left: 80%;
+height: 20%;
+width: 25%;
+margin: auto;
+}
+.icon-size {
+padding: 8px;
+vertical-align: 25%;
+}
+.icon-weight {
+width: 20px;
+text-align: center;
+}
+#footer {
+position: relative;
+height: 50px; 
+width: 100%;
+bottom: 0;
+}
+}
+
+@media only screen and (min-width: 850px) and (max-width: 999px) {
+#burger {
+width: 30px;
+height: 30px;
+display: none;
+}
+body {
+background: url(img/main-phone.jpg) 100% no-repeat;
+background-size: cover;
+position: relative;
+overflow-y: auto;
+}
+.header {
+height: 40px;
+justify-content: space-between;
+align-items: center;
+}
+.wrapper {
+height: 100%;
+}
+.header_section-1 {
+float: left;
+padding-left: 30px;
+}
+.header_section-2 {
+padding-right: 5px;
+}
+a {
+font-size: 22px;
+word-spacing: 1px;
+}
+.header_item {
+padding-right: 50px;
+word-spacing: -10px;
+font-stretch: ultra-condensed;
+}
+.text {
+position: absolute;
+margin: auto;
+top: 35%;
+left: 0;
+text-align: left;
+}
+.information-1 {
+text-align: left;
+font-size: 2.5em;
+}
+.information-2 {
+margin-bottom: 5px;
+line-height: 0.3;
+font-size: 1.3em;
+text-align: left;
+}
+.margin {
+margin-bottom: 40px;
+}
+.bottom {
+position: relative;
+border-top: 18px;
+border-bottom: 18px;
+border-right: 25px;
+border-left: 25px;
+border-radius: 20px;
+font-size: 16px;
+padding: 10px 22px;
+}
+.col-main {
+width: 30%;
+}
+.col-sidebar {
+padding-top: 150px;
+}
+#image {
+margin-right: -50%;
+margin-left: 10%;
+}
+.icon {
+padding-bottom: 10px;
+}
+#child {
+position: absolute;
+display: block;
+top: 10px;
+left: 80%;
+height: 40px;
+width: 25%;
+margin: auto;
+}
+.icon-size {
+padding: 8px;
+vertical-align: 25%;
+}
+.icon-weight {
+width: 20px;
+text-align: center;
+}
+#footer {
+position: relative;
+height: 50px; 
+width: 100%;
+bottom: 0;
+}
+}
+
+@media only screen and (min-width: 550px) and (max-width: 849px) {
+#burger {
+width: 30px;
+height: 30px;
+display: none;
+}
+body {
+background: url(img/main-phone.jpg) 100% no-repeat;
+background-size: cover;
+position: relative;
+overflow-y: auto;
+}
+.header {
+height: 40px;
+justify-content: space-between;
+align-items: center;
+}
+.wrapper {
+	height: 100%;
+}
+.header_section-1 {
+float: left;
+padding-left: 30px;
+}
+.header_section-2 {
+padding-right: 5px;
+}
+a {
+font-size: 16px;
+font-weight: bold;
+word-spacing: 1px;
+margin-right: 0;
+}
+.header_item {
+padding-right: 20px;
+word-spacing: -10px;
+font-stretch: ultra-condensed;
+}
+.text {
+position: absolute;
+left: 50px;
+top: 320px;
+}
+.text {
+position: absolute;
+margin: auto;
+top: 12%;
+left: 0;
+text-align: left;
+}
+.information-1 {
+text-align: left;
+font-size: 2em;
+}
+.information-2 {
+margin-bottom: 5px;
+line-height: 0.3;
+font-size: 1.3em;
+text-align: left;
+}
+.margin {
+margin-bottom: 40px;
+}
+.bottom {
+position: relative;
+border-top: 18px;
+border-bottom: 18px;
+border-right: 25px;
+border-left: 25px;
+border-radius: 20px;
+font-size: 16px;
+padding: 10px 22px;
+}
+.col-main {
+width: 30%;
+}
+.col-sidebar {
+padding-top: 150px;
+}
+#image {
+margin-right: -50%;
+margin-left: 10%;
+}
+.icon {
+padding-bottom: 10px;
+}
+#child {
+position: absolute;
+display: block;
+top: 10px;
+left: 70%;
+height: 40px;
+width: 40%;
+margin: auto;
+}
+.icon-size {
+padding: 8px;
+vertical-align: 25%;
+}
+.icon-weight {
+width: 20px;
+text-align: center;
+}
+#footer {
+position: relative;
+height: 50px; 
+width: 100%;
+bottom: 0;
+}
+}
+
+@media only screen and (max-width: 549px) {
+body {
+background: url(img/main-phone.jpg) 100% no-repeat;
+height: 65vh;
+background-size: cover;
+position: relative;
+overflow-y: auto;
+}
+.headerlogo {
+margin-top: 15px;
+font-weight: bold;
+}
+.headerlogo:hover {
+text-decoration: underline;
+}
+#nav>li {
+display: none;
+}
+#burger {
+display: inline-block;
+margin-right: 20px;
+width: 30px;
+height: 30px;
+}
+#burger > div {
+height: 4px;
+margin-bottom: 8px;
+background-color: #ffffff;
+}
+#nav:hover #burger {
+display: none;
+}
+#nav:hover > li {
+display: block;
+}
+.header {
+height: 40px;
+justify-content: space-between;
+align-items: center;
+}
+.wrapper {
+height: 100%;
+}
+.header_section-1 {
+float: left;
+padding-left: 30px;
+}
+.header_section-2 {
+padding-right: 5px;
+}
+a {
+font-size: 16px;
+font-weight: bold;
+word-spacing: 1px;
+margin-right: 0;
+}
+.header_item {
+padding-right: 20px;
+word-spacing: -10px;
+font-stretch: ultra-condensed;
+}
+.text {
+position: absolute;
+margin: auto;
+top: 9%;
+left: 15px;
+text-align: left;
+}
+.information-1 {
+text-align: left;
+font-size: 1.5em;
+}
+.information-2 {
+margin-bottom: 5px;
+line-height: 0.3;
+font-size: 0.8em;
+text-align: left;
+}
+.margin {
+margin-bottom: 30px;
+}
+.bottom {
+position: relative;
+background: #b6eaff;
+margin-left: 15px;
+border-top: 18px;
+border-bottom: 18px;
+border-right: 25px;
+border-left: 25px;
+border-radius: 20px;
+font-size: 14px;
+padding: 10px 22px;
+}
+.col-main {
+width: 30%;
+}
+.col-sidebar {
+padding-top: 150px;
+}
+#image {
+margin-top: 10px;
+margin-right: -40%;
+}
+.icon {
+padding-bottom: 10px;
+}
+#child {
+position: absolute;
+display: block;
+left: 25%;
+height: 40px;
+width: 50%;
+margin: auto;
+}
+.icon-size {
+padding: 8px;
+vertical-align: 25%;
+}
+.icon-weight {
+width: 20px;
+text-align: center;
+}
+#footer {
+position: relative;
+height: 50px; 
+width: 100%;
+bottom: 0;
+}
+}
