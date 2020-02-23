@@ -109,6 +109,7 @@ display: none;
 body {
 background: url(main-phone.jpg) 100% no-repeat;
 background-size: cover;
+height: 100vh;
 position: relative;
 overflow-y: auto;
 }
@@ -213,6 +214,7 @@ display: none;
 body {
 background: url(main-phone.jpg) 100% no-repeat;
 background-size: cover;
+height: 100vh;
 overflow-y: auto;
 position: relative;
 }
@@ -317,6 +319,7 @@ display: none;
 body {
 background: url(main-phone.jpg) 100% no-repeat;
 background-size: cover;
+height: 100vh;
 position: relative;
 overflow-y: auto;
 }
@@ -425,6 +428,7 @@ background: url(main-phone.jpg) 100% no-repeat;
 overflow-y: auto;
 background-size: cover;
 position: relative;
+height: 100vh;
 }
 .headerlogo {
 margin-top: 15px;
